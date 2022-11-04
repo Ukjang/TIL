@@ -20,3 +20,8 @@ MMAction2_timesformer_pipeline.ipynb
 data
 
 Crop_recommendation.csv
+lm.krs/variables
+*.pb
+*.zip
+*.pkl
+*.npz
